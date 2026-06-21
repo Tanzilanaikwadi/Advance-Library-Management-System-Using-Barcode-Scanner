@@ -98,20 +98,9 @@ Open browser and visit:
 http://localhost/library
 ```
 
----
 
-## 📸 Screenshots
 
-### Dashboard
-(Add screenshot here)
 
-### Books Management
-(Add screenshot here)
-
-### Barcode Scanner
-(Add screenshot here)
-
----
 
 ## 📌 Usage
 
